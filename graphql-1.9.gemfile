@@ -1,9 +1,0 @@
-source 'https://rubygems.org'
-
-gem 'byebug'
-gem 'coveralls'
-
-gem 'rails', '~> 5.2'
-gem 'graphql', '~> 1.9.6'
-
-gemspec
